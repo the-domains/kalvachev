@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kalvachev]]></title>
+        <description><![CDATA[Kalvachev]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 09:55:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Viktor Kalvachev's art]]></title>
+            <description><![CDATA[<article><h1>Viktor Kalvachev's art</h1><p>test</p></article>]]></description>
+            <link>undefinedviktor-kalvachevs-art/index.html</link>
+            <guid isPermaLink="false">50968d3b-6d88-4801-b1ea-3c04a2869aee</guid>
+            <pubDate>Sun, 20 Mar 2016 09:55:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
