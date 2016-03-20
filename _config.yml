@@ -1,0 +1,28 @@
+name: Kalvachev
+favicon: null
+layout_spectrum: 0.2587756880093366
+typography_spectrum: 0.718511565355584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7318347413092852
+  lightness: 0.03455321677029133
+  saturation: 0.06389089557342231
+  rhythmicContrast: 0.9200683585368097
+purpose: []
