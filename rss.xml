@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kalvachev]]></title>
         <description><![CDATA[Kalvachev]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kalvachev/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:55:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 10:01:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kalvachev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb916b31-2494-45c3-96d1-93a8c38ee5cc.jpg">]]></description>
+            <link>https://thegrid.ai/kalvachev/4a7cfe25-482a-4e7b-93a2-51243454a696/index.html</link>
+            <guid isPermaLink="false">4a7cfe25-482a-4e7b-93a2-51243454a696</guid>
+            <pubDate>Sun, 20 Mar 2016 10:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Viktor Kalvachev's art]]></title>
             <description><![CDATA[<article><h1>Viktor Kalvachev's art</h1><p>test</p></article>]]></description>
-            <link>undefinedviktor-kalvachevs-art/index.html</link>
+            <link>https://thegrid.ai/kalvachev/viktor-kalvachevs-art/index.html</link>
             <guid isPermaLink="false">50968d3b-6d88-4801-b1ea-3c04a2869aee</guid>
             <pubDate>Sun, 20 Mar 2016 09:55:44 GMT</pubDate>
         </item>
